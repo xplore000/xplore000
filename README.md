@@ -1,7 +1,7 @@
 ### <div align="center">🌟 Hi I'm Abel ,  a dedicated coding enthusiast based in the heart of India, </div>  
   
 
-- 🔭 I’m currently working on E-commerce Advanced site  
+- 🔭 I’m currently working on Expense Tracker Using OCR 
   
 
 <div align="right">
@@ -9,7 +9,7 @@
 </div>  
   
 
-- 🌱 I’m currently learning react advanced & Machine Learning  
+- 🌱 I’m currently learning react & SWIFT UI
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
